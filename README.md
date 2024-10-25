@@ -1,5 +1,7 @@
 ============================   # DOCUMENTATION =================================
-
+1-Front End Vue JS;
+2-Back End Symfony;
+3-SQL server;
 
 ![Logo](img-front/img1.png)
 ![Logo](img-front/img2.png)
